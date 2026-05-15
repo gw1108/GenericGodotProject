@@ -1,5 +1,5 @@
-# VampireSurvivorsGodotJam
-Recreating vampire survivors vertical slice as is to test the capabilities of LLMs.
+# Generic godot project
+Starting point for godot projects.
 
 ## Setup
 Install Godot 4.6.2 https://godotengine.org/
