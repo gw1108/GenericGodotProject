@@ -8,6 +8,7 @@ One time godot setup:
 1. Open the project in Godot
 2. Editor → Manage Export Templates…
 3. Click Download and Install — it grabs the matching 4.6.2.stable templates (~800MB) and places them in the path Godot is looking at
+4. Make sure the version of your game is set in Project Settings → Application → Config → Version.
 
 Install Godot command line and put it on your path https://docs.godotengine.org/en/latest/tutorials/editor/command_line_tutorial.html#path
 
