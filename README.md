@@ -10,6 +10,7 @@ Firebase for web search, scraping, and crawling: https://mcpmarket.com/server/fi
 
 Taskmaster for converting PRDs to actionable tasks: https://mcpmarket.com/server/task-master
 
+Highly recommend installing python LSP. Claude instructions: https://karanbansal.in/blog/claude-code-lsp/
 
 ## Miro board
 https://miro.com/app/board/ - None
