@@ -12,14 +12,13 @@ Install npm. Install highlight.js for gdscript at https://www.npmjs.com/package/
 1. Open the project in Godot
 2. Editor → Manage Export Templates…
 3. Click Download and Install — it grabs the matching 4.6.2.stable templates (~800MB) and places them in the path Godot is looking at
-4. Make sure the version of your game is set in Project Settings → Application → Config → Version.
+4. Make sure the version of your game is set in Project → Project Settings → Application → Config → Version.
+5. (PIXEL ART): Set the Canvas Textures Default Texture Filter to "Nearest" for pixel art. Project → Project Settings → Rendering → Canvas Textures → Default Texture Filter.
 
 Run in godot project folder
 ```
 godot --headless --path . --import
 ```
-Set the default canvas texture filter for pixel art: Filter Off project wide setting.
-
 ### MCPs
 
 Firebase for web search, scraping, and crawling: https://mcpmarket.com/server/firebase
